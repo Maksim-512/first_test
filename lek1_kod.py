@@ -25,3 +25,5 @@ class User:
             ]
 
         return friends
+
+
